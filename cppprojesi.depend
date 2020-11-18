@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1605116209 source:c:\users\merto\onedrive\documents\codeblocks\cppprojesi\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1605287027 source:c:\users\merto\onedrive\documents\codeblocks\prolab1_1.proje\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
